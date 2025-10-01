@@ -1,5 +1,5 @@
 <p align="center">
-# Puneeth M C
+  <h1><b>Puneeth M C</b></h1>
 </p>
 
 
