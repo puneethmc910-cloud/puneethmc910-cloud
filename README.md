@@ -1,5 +1,6 @@
-# 💫 About Me:
 <p align="center">
+# Puneeth M C
+# 💫 About Me:
 👨‍💻 Electronics & Communication Engineering Student | Passionate about Software Development<br>💡 Skilled in C++, Python, JavaScript, SQL, React, Node.js, HTML, CSS<br>🌱 Exploring Full-Stack Development, DSA & Data Engineering<br>⚡ Love building projects, solving real-world problems, and contributing to Open Source<br>📚 Always curious about new technologies & innovation
 
 
