@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><b>Puneeth M C</b></h1>
+  <h1> <b>Puneeth M C</b> </h1>
 </p>
 
 
