@@ -44,55 +44,13 @@
 
 
 
-# 🔝 **Top Contribution Stats**
-
 <div align="center">
+
+# 🔝 **Top Contribution Stats**
 
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=puneethmc910-cloud&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=🚀%20My%20GitHub%20Contributions&title_color=00ff88&text_color=ffffff&icon_color=00ff88&bg_color=0d1117,161b22,0d1117&border_radius=15&border_color=30363d)
 
 </div>
-
-<br>
-
-<div align="center">
-
-## ✨ **Activity Sparkles**
-
-<!-- GitHub Stats with Animation -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puneethmc910-cloud&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=🌟%20GitHub%20Statistics&title_color=ff6b6b&text_color=ffffff&icon_color=ffd93d&bg_color=0d1117,161b22&border_radius=15&border_color=30363d&hide_border=false)
-
-<!-- Streak Stats with Animation -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puneethmc910-cloud&theme=radical&background=0d1117&border=30363d&stroke=30363d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🛠 **Top Languages**
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puneethmc910-cloud&layout=compact&theme=radical&title_color=00ff88&text_color=ffffff&bg_color=0d1117,161b22&border_radius=15&border_color=30363d)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ⚡ **Recent Activity**
-
-<!-- Recent Activity Feed -->
-<!--START_SECTION:activity-->
-<!-- This section updates automatically -->
-<!--END_SECTION:activity-->
-
-</div>
-
-<br>
 
 <div align="center">
 
