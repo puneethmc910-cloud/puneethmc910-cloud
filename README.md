@@ -19,7 +19,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Readdy](https://img.shields.io/badge/Readdy-%23FF5733.svg?style=for-the-badge) <!-- website framework -->
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -31,9 +32,15 @@
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### API & Testing Tools
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300C36C.svg?style=for-the-badge) 
+![Perplexity](https://img.shields.io/badge/Perplexity-%233399FF.svg?style=for-the-badge) 
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%23FF33AA.svg?style=for-the-badge) 
+![H2O.ai](https://img.shields.io/badge/H2O.ai-%2300BFFF.svg?style=for-the-badge)
+
 
 
 
