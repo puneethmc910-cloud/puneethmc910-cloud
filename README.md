@@ -46,16 +46,5 @@
 
 <div align="center">
 
-# 🔝 **Top Contribution Stats**
-
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=puneethmc910-cloud&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=🚀%20My%20GitHub%20Contributions&title_color=00ff88&text_color=ffffff&icon_color=00ff88&bg_color=0d1117,161b22,0d1117&border_radius=15&border_color=30363d)
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=puneethmc910-cloud&color=blueviolet&style=flat-square" alt="Profile Views">
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
